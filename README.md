@@ -131,15 +131,5 @@ Copy everything into a single folder and share it as a portable ZIP or create an
 
 ## ⭐ License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the [**MIT License**](https://github.com/ikidoncc/cronosqt/blob/main/LICENSE).
 You are free to use, modify, and distribute it.
-
----
-
-If you want, I can also generate:
-
-* a polished banner for the top of the README
-* GitHub badges for version, downloads, or build status
-* an Inno Setup installer script
-
-Just let me know!
